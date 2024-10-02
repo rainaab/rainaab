@@ -29,6 +29,13 @@ Hi, I'm Raina! I'm passionate about coding and eager to transform my hobby into 
   <br>
   - Other: API, CLI, GIT, Figma, Adobe, Microsoft Office
 
+<H3>Clubs and Orgs👩‍👧‍👧:</H3>
+  - RISE Star 💫
+  <br>
+  - NSBE 💻✊🏾
+  <br>
+  - WIT GSU 💟
+
 
 
 
