@@ -11,10 +11,10 @@ Hi, I'm Raina! I'm passionate about coding and eager to transform my hobby into 
 
 - Georgia State University 💙🐾
   - Bachelors in Computer Science 
-  - Minor in Marketing 
+  - Minor in Finance
   - Relevant Coursework: 
-      - Completed: Principles of Computer Science, Fundamentals of Programming,Trigonometry
-      - In Progress: Calculus 1, Computer Science Principles 2
+      - Completed: Principles of Computer Science I & II, Fundamentals of Programming,Trigonometry, Macroeconomics, Accounting, 
+      - In Progress: Calculus 1, Discrete Math
         
 - Fullstack Academy X Emory University Coding Bootcamp 
   - Web Development Certificate 
