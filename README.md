@@ -36,7 +36,7 @@ Hi, I'm Raina! I'm passionate about coding and eager to transform my hobby into 
   <br>
   - WIT GSU 💟
 
-<H3>What I'm  Working On Now</H3>
+<H3>What I'm  Working On Now 👩🏽‍💻🔜:</H3>
   If you want to ake a peek at my "Fortune Teller🔮" repo. I am currently builing out a virtual version of the classic paper fortune teller we all
   used to make in grade school. I'm using Python, React, and linked lists to simulate randomized outcomes and user interaction. The basics are all 
   done, but keep an eye out for the full web version coming soon! 😉
