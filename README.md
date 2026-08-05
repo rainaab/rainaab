@@ -11,15 +11,17 @@ I’m a Computer Science student at Georgia State University with a minor in Fin
   If you want to ake a peek at my "DoubleRLD" repo. I am currently working on a team project called DormScope. 
   DormScope is a full-stack housing and roommate-matching platform designed for students in the University System of Georgia. The application helps     verified students explore housing, submit property reviews, compare roommate compatibility, send match requests, and communicate with accepted      
   matches.
-  <break> </break>
-        ✨ My Contributions ✨
-            - Developed the roommate compatibility scoring service
-            - Integrated AI-assisted analysis of open-ended roommate preferences
-            - Built and tested roommate matching API endpoints
-            - Added housing preference data to the matching process
-            - Implemented messaging functionality for accepted matches
-            - Created database seed data for users, matches, requests, reviews, and messages
-            - Added unit testing for messaging functionality
-            - Supported migration from a local MySQL database to Aiven cloud hosting
 
+<break>
+        <h4>✨ My Contributions ✨</h4>
+  <p>
+            - Developed the roommate compatibility scoring service <br>
+            - Integrated AI-assisted analysis of open-ended roommate preferences <br>
+            - Built and tested roommate matching API endpoints <br>
+            - Added housing preference data to the matching process <br>
+            - Implemented messaging functionality for accepted matches <br>
+            - Created database seed data for users, matches, requests, reviews, and messages <br>
+            - Added unit testing for messaging functionality <br>
+            - Supported migration from a local MySQL database to Aiven cloud hosting <br>
+</p>
 <h3>Look At Some of My Projects Below 🫣 ⬇</h3>
