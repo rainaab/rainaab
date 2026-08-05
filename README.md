@@ -1,45 +1,36 @@
 ### Hi! I'm
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=10000&color=EBC2F7&multiline=true&width=435&lines=Raina+Bethea;Take+A+Look+Around)](https://git.io/typing-svg)
 
-|GSU Junior Computer Science Major | Eager to Learn
+Computer Science Student @ Georgia State 💙🐾| Data Analytics & Software Engineering | Finance Minor | Python, SQL, JavaScript
 
 ---
 
-Hi, I'm Raina! I'm passionate about coding and eager to transform my hobby into a thriving career. With a strong interest in robotics, I'm committed to advancing my skills and creating innovative solutions. I also believe in the power of community and am dedicated to empowering and uplifting other Black women in tech. I'm early in my career and still a student so I still have much to learn! Take a look at some of my work!
-
-<h3>Education🎓:</h3>
-
-- Georgia State University 💙🐾
-  - Bachelors in Computer Science 
-  - Minor in Finance
-  - Relevant Coursework: 
-      - Completed: Principles of Computer Science I & II, Fundamentals of Programming,Trigonometry, Macroeconomics, Accounting, 
-      - In Progress: Calculus 1, Discrete Math
-        
-- Fullstack Academy X Emory University Coding Bootcamp 
-  - Web Development Certificate 
-  - Units: Front-End Foundations and Development, Development Libraries, Back-End Development
-
-<H3>Technical Skills: </H3>
-  - Languages: JavaScript, Python, HTML, CSS
-  <br>
-  - Web Development: React, Node
-  <br>
-  - Database: SQl
-  <br>
-  - Other: API, CLI, GIT, Figma, Adobe, Microsoft Office
-
-<H3>Clubs and Orgs👩‍👧‍👧:</H3>
-  - RISE Star 💫
-  <br>
-  - NSBE 💻✊🏾
-  <br>
-  - WIT GSU 💟
+Hi, I’m Raina! I’m a Computer Science student at Georgia State University with a minor in Finance, passionate about building technology that solves real-world problems. My interests span software engineering, data analytics, and sports technology, and I’m always exploring new ways to combine code, data, and creativity to make an impact. Feel free to explore my projects—I hope you find something interesting!
 
 <H3>What I'm  Working On Now 👩🏽‍💻🔜:</H3>
-  If you want to ake a peek at my "Fortune Teller🔮" repo. I am currently builing out a virtual version of the classic paper fortune teller we all
-  used to make in grade school. I'm using Python, React, and linked lists to simulate randomized outcomes and user interaction. The basics are all 
-  done, but keep an eye out for the full web version coming soon! 😉
+  If you want to ake a peek at my "DoubleRLD" repo. I am currently working on a team project called DormScope. 
+  DormScope is a full-stack housing and roommate-matching platform designed for students in the University System of Georgia. The application helps     verified students explore housing, submit property reviews, compare roommate compatibility, send match requests, and communicate with accepted      
+  matches.
+  
+  ## My Contributions
+- Developed the roommate compatibility scoring service
+- Integrated AI-assisted analysis of open-ended roommate preferences
+- Built and tested roommate matching API endpoints
+- Added housing preference data to the matching process
+- Implemented messaging functionality for accepted matches
+- Created database seed data for users, matches, requests, reviews, and messages
+- Added unit testing for messaging functionality
+- Supported migration from a local MySQL database to Aiven cloud hosting
+
+## Tech Stack
+- React
+- Node.js
+- Express
+- MySQL
+- Google Gemini API
+- JWT authentication
+- Aiven
+- Git and GitHub
 
 
 <h3>Look At Some of My Projects Below :) ⬇</h3>
